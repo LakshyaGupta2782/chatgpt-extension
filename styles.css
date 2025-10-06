@@ -14,7 +14,7 @@
   z-index: 9999;
   overflow-y: auto;
   padding: 20px; /* Increased padding */
-  padding-bottom: 80px;
+  padding-bottom: 70px;
   transition: right .5s ease;
   box-sizing: border-box;
 }
