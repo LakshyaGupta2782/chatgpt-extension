@@ -28,7 +28,7 @@ Renames and starred statuses are stored per chat using Chrome’s local storage 
 
 ## 🛠️ Installation
 
-1. Clone or [download this repo](https://github.com/CoderVicky23/chatGPT-extension).
+1. Clone or [download this repo](https://github.com/LakshyaGupta2782/chatgpt-extension).
 2. Go to `chrome://extensions/` in your Chrome browser.
 3. Enable **Developer Mode** (top right).
 4. Click **“Load Unpacked”**, and select the project folder.
