@@ -89,12 +89,6 @@ For full details, see [PRIVACY.md](./PRIVACY.md).
 
 ---
 
-## 🤝 Contributing
-
-Pull requests welcome! If you find bugs or have feature suggestions, feel free to [open an issue](https://github.com/CoderVicky23/chatGPT-extension/issues).
-
----
-
 ## 🧠 Inspired By
 
 This project is built to complement the ChatGPT experience for researchers, students, and productivity enthusiasts.
